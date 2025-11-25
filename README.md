@@ -82,19 +82,3 @@ set_api_key("<YOUR_API_KEY>")
 
 Learn more about the [Python API](https://docs.revocalize.ai/api-reference), or check out the [HTTP API documentation](https://docs.revocalize.ai/introduction).
 
-## 📪 Contact
-
-If you have any questions, suggestions, or need assistance, feel free to reach out to us:
-
-- Email: [contact@revocalize.ai](mailto:contact@revocalize.ai)
-- Twitter: [@Revocalize](https://twitter.com/Revocalize)
-- GitHub: [Revocalize AI](https://github.com/Revocalize)
-
-We're always happy to help and hear your feedback!
-
-
-## 📄 Copyright
-
-Copyright © 2023 Revocalize AI. All rights reserved.
-
-Unauthorized copying, distribution, or use of this documentation or any part of it is strictly prohibited without the express permission of Revocalize AI. Please contact [contact@revocalize.ai](mailto:contact@revocalize.ai) for any inquiries or permissions.
